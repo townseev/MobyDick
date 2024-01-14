@@ -6,13 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Herman Melville</personname>
     </author>
-    <date>
-      <today />
-    </date>
+    <dedication>In token of my admiration for his genius, this book is inscribed to Nathaniel Hawthorne</dedication>
   </titlepage>
 
   <colophon>
